@@ -1,0 +1,5 @@
+-- database: /Users/kurbonbekov.d.s/Desktop/myproject/db.sqlite3
+
+-- Чтобы выполнить весь файл, нажмите кнопку ▷ в правом верхнем углу окна.
+
+SELECT * FROM workers;
